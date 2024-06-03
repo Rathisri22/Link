@@ -1,0 +1,43 @@
+img{
+  height: 50%;
+  width: 50%;
+  float: right;
+  margin-right: 250px;
+}
+h1{
+  font-size: 35px;
+  color: orange;
+  text-align: center;
+}
+p{
+  font-size: 25px;
+  color: green;
+  float: left;
+  margin-left: 20px;
+}
+ol{
+  font-size: 35px;
+  color: blue;
+  text-align: center;
+}
+li{
+  font-size: 25px;
+  color: darkred;
+  float: left;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  list-style-type: none;
+}
+ul{
+  font-size: 35px;
+  color: midnightblue;
+  text-align: center;
+}
+nav{
+  font-size: 25px;
+  color:orangered;
+  float: left;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  list-style-type: none;
+}
